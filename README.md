@@ -46,8 +46,14 @@ A fictional world exploring what happens when realities with internally coherent
 
 **Possible form:** fiction, a worldbuilding archive, and philosophical thought experiments about boundaries, coexistence, and transformation.
 
-*Prototype means there is an implementation to explore; Exploring and Research idea describe future directions, not completed products.*
+### 05 · Living Biological Computing
+**活体生物计算机** · `Literature review`
 
+A structured review of living neural cultures and organoids as components in biohybrid computing, with an evidence table, methods note, source ledger, and figure-source record.
+
+[Read the research review](Research/Living-Biological-Computing/README.md)
+
+*Prototype means there is an implementation to explore; Exploring and Research idea describe future directions, not completed products.*
 
 ---
 
