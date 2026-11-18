@@ -7,6 +7,7 @@
 - [证据表](EVIDENCE.md)：主要命题、证据类型与结论边界
 - [文献索引](REFERENCES.md)：DOI、阅读范围和材料说明
 - [结构化来源](sources.json)：可复核的来源元数据
-- [图源说明](FIGURES.md)：原论文图件入口与许可处理
+- [图源与复绘记录](FIGURES.md)：原论文图、开放数据复绘、许可及 SHA256
+- [复绘脚本](figures/derived/replot_braille_organoid.py)：从 data.bris 下载数据并生成描述性通道热图
 
 这是结构化专题调研，不是系统综述或元分析。报告区分活体组织的计算参与、外部硬件与软件所承担的工作，以及任务演示尚未支持的推论。

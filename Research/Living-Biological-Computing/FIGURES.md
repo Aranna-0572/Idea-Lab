@@ -1,14 +1,39 @@
-# 图源与许可说明
+# 学术原图与开放数据复绘
 
-本报告没有复制、裁切或重新发布第三方论文图像，也没有使用生成式图像。读者可通过下列出版页面查看原始图件。页面图像的许可应以论文对应的图注和许可声明为准。
+本报告包含 2 幅出版者原图、1 幅基于开放数据的描述性复绘，以及原创文字表格。论文图使用出版者托管的原始 WebP 文件直接嵌入，未裁切、重绘或重标注。论文声明采用 CC BY 4.0，相关原图保留作者署名与来源，不纳入本仓库第一方许可。
 
-| 来源 | 推荐查看内容 | 原始页面 |
-|---|---|---|
-| 3D-MIND, Mritunjay et al. 2026 | 图 1 器件构造；图 2 长期记录与药理响应 | [Nature Electronics](https://www.nature.com/articles/s41928-026-01608-1) |
-| PNAS, Yada et al. 2026 | 图 1 闭环硬件与图案化网络；图 3–5 时间信号任务 | [PMC 全文](https://pmc.ncbi.nlm.nih.gov/articles/PMC12994192/) |
-| 类器官倒立摆, Robbins et al. 2026 | 任务接口、训练条件和休息后表现 | [Cell Reports](https://doi.org/10.1016/j.celrep.2026.116984) |
-| Braille 类器官分类, Liu et al. 2026 | 编码流程、26 类混淆矩阵、直接解码基线 | [Frontiers 全文](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1800219/full) |
-| 神经网络逻辑门, Küchler et al. 2025 | 微结构、双输入单输出和逻辑映射 | [Frontiers 全文](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2025.1559936/full) |
-| Brainoware, Cai et al. 2023 | 类器官储备池计算与任务结果 | [Nature Electronics](https://www.nature.com/articles/s41928-023-01069-w) |
+| 编号 | 类型 | 来源 / 读图用途 | 文件 |
+|---|---|---|---|
+| O01 | 出版者原图 | Liu et al. (2026), Figure 1：触觉输入编码、类器官刺激与分类流程 | [出版者原图](https://www.frontiersin.org/files/Articles/1800219/xml-images/frai-09-1800219-g0001.webp) |
+| O02 | 出版者原图 | Liu et al. (2026), Figure 9：类器官输出热图、混淆矩阵、噪声准确率 | [出版者原图](https://www.frontiersin.org/files/Articles/1800219/xml-images/frai-09-1800219-g0009.webp) |
+| D01 | 开放数据复绘 | 三类器官 24 通道数据按字母聚合的均值热图；不重跑分类器 | [复绘图](figures/derived/braille_mean_spike_counts_by_letter.svg)；[脚本](figures/derived/replot_braille_organoid.py) |
 
-如未来要复制论文图、制作改编图或把图用于公开视频与演示，应逐图核验出版许可和第三方署名。本报告的文字综合不构成图像许可。
+## O01 · Liu et al. (2026), Figure 1 {#o01}
+
+原图说明：展示 Evetac 触觉传感器输入被编码成电刺激，送入低密度 MEA 上的人类前脑类器官，再以神经活动输出进行 26 个 Braille 字母分类的实验流程。
+
+出处：Tianyi Liu, Hemma Philamore, Benjamin Ward-Cherrier. “Encoding tactile stimuli for Braille recognition with organoids.” *Frontiers in Artificial Intelligence* 9 (2026), 1800219. [DOI](https://doi.org/10.3389/frai.2026.1800219)；[出版者全文及 Figure 1](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1800219/full)。
+
+许可：论文版权声明为 CC BY 4.0。按原作者及原出版物署名转载；未改动。资源文件名：`frai-09-1800219-g0001.webp`。SHA256（核验的原始下载文件）：`f1f24ce48298eacda5fc08007e81c9285117216fb6fbc3d9bf76081982023bd4`。尺寸：1417 × 567。
+
+## O02 · Liu et al. (2026), Figure 9
+
+原图说明：比较单类器官与三类器官输出；包含通道响应热图、26 类混淆矩阵及不同噪声条件下的分类准确率。
+
+出处与许可同 O01。资源文件名：`frai-09-1800219-g0009.webp`。SHA256（核验的原始下载文件）：`a7bf1e79888d46d71dc3f27eb2b61dec039078ac4bbaadd0b2122d29292e6c65`。尺寸：1772 × 1620。原图未改动。
+
+## D01 · data.bris 作者数据复绘 {#d01}
+
+复绘定义：读取数据集 `derived/three_organoid_24_channel_spike_counts.csv`，按 `braille_letter` 分组，对通道 40–63 的 24 个 `spike_count` 列分别求算术平均，按 A–Z 绘制 26 × 24 热图。数据共 1,287 行，每类 46–51 个样本。此图只描述公开输出数据的通道均值，不复现论文混淆矩阵、分类器或准确率。
+
+来源：Ward-Cherrier, Liu & Philamore (2026), *Encoding Tactile Stimuli for Braille Recognition with Organoids*, University of Bristol data.bris, DOI [10.5523/bris.19qmlywobvl3u22pzo67z3bc6l](https://doi.org/10.5523/bris.19qmlywobvl3u22pzo67z3bc6l)。[数据集入口](https://data.bristol.ac.uk/data/dataset/19qmlywobvl3u22pzo67z3bc6l)；[下载 ZIP](https://data.bristol.ac.uk/datasets/19qmlywobvl3u22pzo67z3bc6l/19qmlywobvl3u22pzo67z3bc6l.zip)。
+
+许可：数据集页面标注为 [Non-Commercial Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/non-commercial-government-licence/version/2/)。允许非商业用途复制、发布和改编，需署名并保留非商业限制。本复绘图及其数据衍生内容仅限非商业用途；此许可只适用于该数据衍生内容，不改变本仓库其他材料的许可状态。署名语句：Contains information licensed under the Non-Commercial Government Licence v2.0.
+
+重现：在已安装 `pandas`、`numpy`、`matplotlib` 的 Python 环境中运行：
+
+```bash
+python figures/derived/replot_braille_organoid.py
+```
+
+脚本从 data.bris 下载 ZIP 到内存，只读取上述 CSV，不把原始数据包写入或转存仓库。图像输出在脚本同目录。复绘图在仓库内以 SVG 保存，便于检查及放大。
