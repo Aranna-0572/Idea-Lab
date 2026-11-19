@@ -4,7 +4,7 @@
 
 检索与材料整理日期：2026-11-19（Asia/Shanghai）。本工作是围绕工程栈、活体组织的任务贡献及其评估方式展开的结构化专题调研。它不是预注册系统综述，不声称对所有数据库结果完成去重筛选，也没有开展元分析。
 
-范围聚焦活体神经组织参与的生物混合计算：培养神经元、三维培养神经网络、脑类器官、MEA 接口、闭环控制和储备池计算。纯硅基神经形态芯片、纯数字神经网络和 DNA 计算不纳入主体比较。纳入 2023–2026 年代表性原始研究，并用 2022 年 DishBrain 作为前期范例、2023 年 Organoid Intelligence 论文作为研究范围背景。
+主体范围聚焦活体神经组织参与的生物混合计算：培养神经元、三维培养神经网络、脑类器官、MEA 接口、闭环控制和储备池计算；另增 biobots／生物混合机器人作为相邻技术路线，比较其活体驱动、神经控制及伦理责任，不把其运动能力等同于神经计算证据。纯硅基神经形态芯片、纯数字神经网络和 DNA 计算不纳入主体比较。纳入 2023–2026 年代表性原始研究，并用 2022 年 DishBrain 作为前期范例、2023 年 Organoid Intelligence 论文作为研究范围背景。
 
 ## 2. 检索与原文获取
 
@@ -16,7 +16,8 @@
 - tactile Braille classification、3D micro-instrumented neural network、logic operators；
 - benchmark framework、reproducibility、energy use、ethics；
 - biological computing companies、Cortical Labs CL1、FinalSpark Neuroplatform、high-density MEA、organoid platforms；
-- brain organoid moral status、sentience、consent、ownership、responsible innovation、theories of consciousness。
+- brain organoid moral status、sentience、consent、ownership、responsible innovation、theories of consciousness；
+- biohybrid robots、biobots、living actuators、biohybrid robotics ethics、Coeckelbergh relational ethics、Gunkel relational turn。
 
 先以最新任务级研究识别关键论文，再回查其原始出版页面、摘要、方法、结果和讨论。对于 2026 年 Braille 研究与 PNAS 时间序列研究核读了出版者开放全文；Cell Reports 研究核读 PubMed 摘要、出版者记录及作者公开论文版本；3D-MIND 研究核读 Nature Electronics 原始摘要和普林斯顿工程学院团队新闻稿。新闻稿只用于补充设备规模和团队公开的任务说明，不代替论文证据。早期 Brainoware、DishBrain 和类器官计算基准通过原始论文摘要及出版记录核对。
 
@@ -42,7 +43,7 @@
 
 投资章节按产业链与公开产品/服务页面整理，区分核心计算平台、上游仪器和相邻类器官基础设施。企业页面只用来确认公开产品定位、服务入口及技术能力说明，不作为收入、利润、估值或投资回报证据；本报告未核验企业股权、融资条款、证券可交易性或财务报表，因此不作个股推荐。
 
-伦理章节综合类器官伦理综述、亚太神经伦理工作组共识、法律综述及意识理论综述，并列出功利主义、康德伦理、责任伦理、关怀伦理和能力取向等分析视角。这些规范传统与意识科学理论承担不同问题：前者讨论责任、权利与道德地位，后者讨论可能与意识相关的认知/神经机制。报告不把某一意识理论当作类器官意识诊断标准。
+伦理章节综合类器官伦理综述、亚太神经伦理工作组共识、生物混合机器人伦理研究、法律综述及意识理论综述，并列出功利主义、康德伦理、责任伦理、关怀伦理、能力取向，以及 Coeckelbergh 与 Gunkel 的关系取向。关系伦理用于分析道德地位归属、关系结构和责任分配，不作为意识诊断方法。这些规范传统与意识科学理论承担不同问题：前者讨论责任、权利与道德地位，后者讨论可能与意识相关的认知/神经机制。报告不把某一意识理论当作类器官意识诊断标准。
 
 ## 6. 未解决局限
 
