@@ -1,6 +1,6 @@
 # 文献与核读范围
 
-文献截止日期：2026 年 11 月 18 日。来源清单另见 [sources.json](sources.json)。
+文献截止日期：2026 年 11 月 19 日。来源清单另见 [sources.json](sources.json)。
 
 ## 任务级与工程原始研究
 
