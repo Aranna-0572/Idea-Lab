@@ -168,7 +168,7 @@
 
 <a id="e01"></a>
 
-### E01 · Hyun et al. (2024)
+### E01 · Shlobin, Savulescu & Baum (2024)
 
 **The ethical landscape of human brain organoids and a mindful innovation framework.** *Nature Reviews Bioengineering* 2 (2024): 785–796. DOI: [10.1038/s44222-024-00211-3](https://doi.org/10.1038/s44222-024-00211-3).
 
@@ -198,7 +198,7 @@
 
 <a id="e04"></a>
 
-### E04 · Bayne, Seth & Massimini (2022)
+### E04 · Seth & Bayne (2022)
 
 **Theories of consciousness.** *Nature Reviews Neuroscience* 23 (2022): 439–452. DOI: [10.1038/s41583-022-00587-4](https://doi.org/10.1038/s41583-022-00587-4).
 
