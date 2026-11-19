@@ -170,30 +170,6 @@
 
 用途：核对微流控 organ-on-chip 和组织模型平台。它是类器官/组织模型与药物研发的相邻基础设施，并非活体神经计算平台。
 
-<a id="e11"></a>
-
-### E11 · Mark Coeckelbergh (2010)
-
-**Robot rights? Towards a social-relational justification of moral consideration.** *Ethics and Information Technology* 12 (2010): 209–221. DOI: [10.1007/s10676-010-9235-5](https://doi.org/10.1007/s10676-010-9235-5).
-
-用途：社会关系取向的机器道德考虑论证。用于分析关系、道德地位归属与人机互动，不把该理论当作类器官意识证据。
-
-<a id="e12"></a>
-
-### E12 · David J. Gunkel (2022)
-
-**The Relational Turn: Thinking Robots Otherwise.** 收录于 *Social Robotics and the Good Life*。DOI: [10.1515/9783839462652-003](https://doi.org/10.1515/9783839462652-003).
-
-核读范围：开放章节。用于说明“关系转向”对以既定本体属性判定机器道德地位的批评；其应用到活体计算和 biobots 属于本报告的跨领域延伸。
-
-<a id="e13"></a>
-
-### E13 · Gough, Gough & Lázaro (2024)
-
-**Ethics and responsibility in biohybrid robotics research.** *Frontiers in Robotics and AI* 11 (2024): 1401760. DOI: [10.3389/frobt.2024.1401760](https://doi.org/10.3389/frobt.2024.1401760).
-
-核读范围：开放全文。用于概括生物混合机器人研究中的活体材料、潜在感受能力、责任分配和治理需求。作者重点讨论自上而下的生物机器人研究，并指出部分建议可延伸至培养组织路线；不把其治理提案写成已采纳的统一标准。
-
 ## 神经伦理、哲学与意识理论
 
 <a id="e01"></a>
@@ -295,3 +271,27 @@
 **The Capability Approach.** *Stanford Encyclopedia of Philosophy*. [Entry](https://plato.stanford.edu/entries/capability-approach/).
 
 用途：能力、功能实现与福祉的规范框架，关联 Amartya Sen 与 Martha Nussbaum。正文仅把它作为比较与启发视角，不主张将人类或动物能力标准直接移植到类器官。
+
+<a id="e11"></a>
+
+### E11 · Mark Coeckelbergh (2010)
+
+**Robot rights? Towards a social-relational justification of moral consideration.** *Ethics and Information Technology* 12 (2010): 209–221. DOI: [10.1007/s10676-010-9235-5](https://doi.org/10.1007/s10676-010-9235-5).
+
+用途：社会关系取向的机器道德考虑论证。用于分析关系、道德地位归属与人机互动，不把该理论当作类器官意识证据。
+
+<a id="e12"></a>
+
+### E12 · David J. Gunkel (2022)
+
+**The Relational Turn: Thinking Robots Otherwise.** 收录于 *Social Robotics and the Good Life*。DOI: [10.1515/9783839462652-003](https://doi.org/10.1515/9783839462652-003).
+
+核读范围：开放章节。用于说明“关系转向”对以既定本体属性判定机器道德地位的批评；其应用到活体计算和 biobots 属于本报告的跨领域延伸。
+
+<a id="e13"></a>
+
+### E13 · Gough, Gough & Lázaro (2024)
+
+**Ethics and responsibility in biohybrid robotics research.** *Frontiers in Robotics and AI* 11 (2024): 1401760. DOI: [10.3389/frobt.2024.1401760](https://doi.org/10.3389/frobt.2024.1401760).
+
+核读范围：开放全文。用于概括生物混合机器人研究中的活体材料、潜在感受能力、责任分配和治理需求。作者重点讨论自上而下的生物机器人研究，并指出部分建议可延伸至培养组织路线；不把其治理提案写成已采纳的统一标准。
