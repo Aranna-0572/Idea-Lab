@@ -1,11 +1,212 @@
 [
-  {"id":"B01","type":"primary_research","authors":"Mritunjay et al.","year":2026,"title":"A three-dimensional micro-instrumented neural network device","venue":"Nature Electronics","doi":"10.1038/s41928-026-01608-1","url":"https://www.nature.com/articles/s41928-026-01608-1","reading_scope":"Publisher abstract; Princeton Engineering news item used only for reported scale and task context","supports":["3D microelectrode interface","multi-plane recording over six months","chronic stimulation and reservoir-computing device"],"limits":["Device and enabling platform evidence should be separated from claims of scalable general computation"]},
-  {"id":"B02","type":"primary_research","authors":"Robbins et al.","year":2026,"title":"Goal-directed learning in cortical organoids","venue":"Cell Reports","doi":"10.1016/j.celrep.2026.116984","url":"https://pubmed.ncbi.nlm.nih.gov/41720084/","reading_scope":"PubMed and publisher abstracts, author manuscript, UCSC institutional research summary","supports":["closed-loop cart-pole task","adaptive feedback training","pharmacological evidence for glutamatergic transmission","short-lived improvement"],"limits":["Task-specific; improvement not retained after 45-minute rest; external RL selected training stimulation"]},
-  {"id":"B03","type":"primary_research","authors":"Yada et al.","year":2026,"title":"Online supervised learning of temporal patterns in biological neural networks under feedback control","venue":"PNAS","doi":"10.1073/pnas.2521560123","url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC12994192/","reading_scope":"Full PMC article, results, methods and discussion","supports":["closed-loop temporal signal generation","microfluidic network topology effects","periodic and chaotic signal demonstrations"],"limits":["Post-learning errors increase in most trials; chaotic result is proof of concept; approximately 333 ms feedback cycle"]},
-  {"id":"B04","type":"primary_research","authors":"Liu, Philamore & Ward-Cherrier","year":2026,"title":"Encoding tactile stimuli for Braille recognition with organoids","venue":"Frontiers in Artificial Intelligence","doi":"10.3389/frai.2026.1800219","url":"https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1800219/full","reading_scope":"Publisher full text, methods, results, discussion and figures","supports":["open-loop tactile-to-organoid encoding","26-class Braille classification","single and three-organoid accuracy","comparison with direct stimulation decoding"],"limits":["External SVM classifies; clean stimulation-only baseline reaches 82% against 83% for organoid ensemble; not a learning or closed-loop task"]},
-  {"id":"B05","type":"primary_research","authors":"Küchler et al.","year":2025,"title":"Engineered biological neuronal networks as basic logic operators","venue":"Frontiers in Computational Neuroscience","doi":"10.3389/fncom.2025.1559936","url":"https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2025.1559936/full","reading_scope":"Publisher full text, methods, results and discussion","supports":["controlled two-input/one-output culture topology","nonlinear transfer functions resembling NAND and OR"],"limits":["small engineered network and encoding-specific output; no large-scale composability demonstrated"]},
-  {"id":"B06","type":"primary_research","authors":"Cai et al.","year":2023,"title":"Brain organoid reservoir computing for artificial intelligence","venue":"Nature Electronics","doi":"10.1038/s41928-023-01069-w","url":"https://www.nature.com/articles/s41928-023-01069-w","reading_scope":"Publisher abstract and publication metadata","supports":["Brainoware organoid reservoir computing","speech recognition and nonlinear equation prediction demonstrations"],"limits":["External interface and readout remain part of the computing system"]},
-  {"id":"B07","type":"primary_research","authors":"Kagan et al.","year":2022,"title":"In vitro neurons learn and exhibit sentience when embodied in a simulated game-world","venue":"Neuron","doi":"10.1016/j.neuron.2022.09.001","url":"https://pubmed.ncbi.nlm.nih.gov/36228614/","reading_scope":"PubMed and publisher abstracts","supports":["DishBrain closed-loop Pong task as an early embodied neural-culture example"],"limits":["The title's sentience terminology is not evidence of subjective experience"]},
-  {"id":"B08","type":"framework_article","authors":"Xing et al.","year":2026,"title":"A benchmarking framework for organoid computing","venue":"Bioactive Materials","doi":"10.1016/j.bioactmat.2026.10.027","url":"https://pubmed.ncbi.nlm.nih.gov/43034668/","reading_scope":"PubMed and publisher abstracts; online date 2026-11-06","supports":["proposed substrate qualification, interface stability and hierarchical computation metrics"],"limits":["framework proposal, not a validated field-wide standard"]},
-  {"id":"B09","type":"perspective","authors":"Smirnova et al.","year":2023,"title":"Organoid intelligence (OI): the new frontier in biocomputing and intelligence-in-a-dish","venue":"Frontiers in Science","doi":"10.3389/fsci.2023.1017235","url":"https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2023.1017235/full","reading_scope":"Publisher abstract and discussion","supports":["field terminology and research agenda"],"limits":["perspective article, not task-performance evidence"]}
+  {
+    "id": "B01",
+    "type": "primary_research",
+    "authors": "Mritunjay et al.",
+    "year": 2026,
+    "title": "A three-dimensional micro-instrumented neural network device",
+    "venue": "Nature Electronics",
+    "doi": "10.1038/s41928-026-01608-1",
+    "url": "https://www.nature.com/articles/s41928-026-01608-1",
+    "reading_scope": "Publisher abstract; Princeton Engineering news item used only for reported scale and task context",
+    "supports": [
+      "3D microelectrode interface",
+      "multi-plane recording over six months",
+      "chronic stimulation and reservoir-computing device"
+    ],
+    "limits": [
+      "Device and enabling platform evidence should be separated from claims of scalable general computation"
+    ]
+  },
+  {
+    "id": "B02",
+    "type": "primary_research",
+    "authors": "Robbins et al.",
+    "year": 2026,
+    "title": "Goal-directed learning in cortical organoids",
+    "venue": "Cell Reports",
+    "doi": "10.1016/j.celrep.2026.116984",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41720084/",
+    "reading_scope": "PubMed and publisher abstracts, author manuscript, UCSC institutional research summary",
+    "supports": [
+      "closed-loop cart-pole task",
+      "adaptive feedback training",
+      "pharmacological evidence for glutamatergic transmission",
+      "short-lived improvement"
+    ],
+    "limits": [
+      "Task-specific; improvement not retained after 45-minute rest; external RL selected training stimulation"
+    ]
+  },
+  {
+    "id": "B03",
+    "type": "primary_research",
+    "authors": "Yada et al.",
+    "year": 2026,
+    "title": "Online supervised learning of temporal patterns in biological neural networks under feedback control",
+    "venue": "PNAS",
+    "doi": "10.1073/pnas.2521560123",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12994192/",
+    "reading_scope": "Full PMC article, results, methods and discussion",
+    "supports": [
+      "closed-loop temporal signal generation",
+      "microfluidic network topology effects",
+      "periodic and chaotic signal demonstrations"
+    ],
+    "limits": [
+      "Post-learning errors increase in most trials; chaotic result is proof of concept; approximately 333 ms feedback cycle"
+    ]
+  },
+  {
+    "id": "B04",
+    "type": "primary_research",
+    "authors": "Liu, Philamore & Ward-Cherrier",
+    "year": 2026,
+    "title": "Encoding tactile stimuli for Braille recognition with organoids",
+    "venue": "Frontiers in Artificial Intelligence",
+    "doi": "10.3389/frai.2026.1800219",
+    "url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1800219/full",
+    "reading_scope": "Publisher full text, methods, results, discussion and figures",
+    "supports": [
+      "open-loop tactile-to-organoid encoding",
+      "26-class Braille classification",
+      "single and three-organoid accuracy",
+      "comparison with direct stimulation decoding"
+    ],
+    "limits": [
+      "External SVM classifies; clean stimulation-only baseline reaches 82% against 83% for organoid ensemble; not a learning or closed-loop task"
+    ]
+  },
+  {
+    "id": "B05",
+    "type": "primary_research",
+    "authors": "Küchler et al.",
+    "year": 2025,
+    "title": "Engineered biological neuronal networks as basic logic operators",
+    "venue": "Frontiers in Computational Neuroscience",
+    "doi": "10.3389/fncom.2025.1559936",
+    "url": "https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2025.1559936/full",
+    "reading_scope": "Publisher full text, methods, results and discussion",
+    "supports": [
+      "controlled two-input/one-output culture topology",
+      "nonlinear transfer functions resembling NAND and OR"
+    ],
+    "limits": [
+      "small engineered network and encoding-specific output; no large-scale composability demonstrated"
+    ]
+  },
+  {
+    "id": "B06",
+    "type": "primary_research",
+    "authors": "Cai et al.",
+    "year": 2023,
+    "title": "Brain organoid reservoir computing for artificial intelligence",
+    "venue": "Nature Electronics",
+    "doi": "10.1038/s41928-023-01069-w",
+    "url": "https://www.nature.com/articles/s41928-023-01069-w",
+    "reading_scope": "Publisher abstract and publication metadata",
+    "supports": [
+      "Brainoware organoid reservoir computing",
+      "speech recognition and nonlinear equation prediction demonstrations"
+    ],
+    "limits": [
+      "External interface and readout remain part of the computing system"
+    ]
+  },
+  {
+    "id": "B07",
+    "type": "primary_research",
+    "authors": "Kagan et al.",
+    "year": 2022,
+    "title": "In vitro neurons learn and exhibit sentience when embodied in a simulated game-world",
+    "venue": "Neuron",
+    "doi": "10.1016/j.neuron.2022.09.001",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36228614/",
+    "reading_scope": "PubMed and publisher abstracts",
+    "supports": [
+      "DishBrain closed-loop Pong task as an early embodied neural-culture example"
+    ],
+    "limits": [
+      "The title's sentience terminology is not evidence of subjective experience"
+    ]
+  },
+  {
+    "id": "B08",
+    "type": "framework_article",
+    "authors": "Xing et al.",
+    "year": 2026,
+    "title": "A benchmarking framework for organoid computing",
+    "venue": "Bioactive Materials",
+    "doi": "10.1016/j.bioactmat.2026.10.027",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034668/",
+    "reading_scope": "PubMed and publisher abstracts; online date 2026-11-06",
+    "supports": [
+      "proposed substrate qualification, interface stability and hierarchical computation metrics"
+    ],
+    "limits": [
+      "framework proposal, not a validated field-wide standard"
+    ]
+  },
+  {
+    "id": "B09",
+    "type": "perspective",
+    "authors": "Smirnova et al.",
+    "year": 2023,
+    "title": "Organoid intelligence (OI): the new frontier in biocomputing and intelligence-in-a-dish",
+    "venue": "Frontiers in Science",
+    "doi": "10.3389/fsci.2023.1017235",
+    "url": "https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2023.1017235/full",
+    "reading_scope": "Publisher abstract and discussion",
+    "supports": [
+      "field terminology and research agenda"
+    ],
+    "limits": [
+      "perspective article, not task-performance evidence"
+    ]
+  },
+  {
+    "id": "B10",
+    "type": "institutional_source",
+    "authors": "Princeton Engineering",
+    "year": 2026,
+    "title": "New 3D device harnesses living brain cells for computing",
+    "url": "https://engineering.princeton.edu/news/2026/04/27/new-3d-device-harnesses-living-brain-cells-computing",
+    "supports": [
+      "institution-reported device scale and pattern-recognition context"
+    ],
+    "limits": [
+      "institutional summary; the peer-reviewed paper remains the primary source"
+    ]
+  },
+  {
+    "id": "B11",
+    "type": "institutional_source",
+    "authors": "UC Santa Cruz News",
+    "year": 2026,
+    "title": "Brain organoids can be trained to solve a goal-directed task",
+    "url": "https://news.ucsc.edu/2026/02/brain-organoids-goal-directed-learning/",
+    "supports": [
+      "institution-reported 4.5% random-training and 46% adaptive-training success-rate comparison"
+    ],
+    "limits": [
+      "press summary; methods and qualifications should be checked against B02"
+    ]
+  },
+  {
+    "id": "D01",
+    "type": "dataset",
+    "authors": "Ward-Cherrier, Liu & Philamore",
+    "year": 2026,
+    "title": "Encoding Tactile Stimuli for Braille Recognition with Organoids",
+    "venue": "University of Bristol data.bris",
+    "doi": "10.5523/bris.19qmlywobvl3u22pzo67z3bc6l",
+    "url": "https://data.bristol.ac.uk/data/dataset/19qmlywobvl3u22pzo67z3bc6l",
+    "license": "Non-Commercial Government Licence v2.0",
+    "supports": [
+      "24-channel organoid spike-count data used for descriptive class-mean heatmap"
+    ],
+    "limits": [
+      "dataset reuse is non-commercial only; plotted means do not reproduce classifier accuracy"
+    ]
+  }
 ]
