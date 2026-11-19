@@ -416,5 +416,73 @@
     "supports": [
       "capabilities and well-being frameworks associated with Sen and Nussbaum"
     ]
+  },
+  {
+    "id": "B12",
+    "type": "review",
+    "authors": "Garmroudi et al.",
+    "year": 2025,
+    "title": "Biohybrid living robotics: A comprehensive review of recent advances, technological innovation, and future prospects",
+    "venue": "npj Robotics",
+    "doi": "10.1038/s44182-025-00056-x",
+    "url": "https://www.nature.com/articles/s44182-025-00056-x",
+    "supports": [
+      "tissue-based biohybrid robots including walkers, swimmers, grippers and pumps",
+      "technical challenges in control, culture and scaling"
+    ],
+    "limits": [
+      "review article; does not establish performance or autonomy of any one biobot"
+    ]
+  },
+  {
+    "id": "E11",
+    "type": "relational_robot_ethics",
+    "authors": "Mark Coeckelbergh",
+    "year": 2010,
+    "title": "Robot rights? Towards a social-relational justification of moral consideration",
+    "venue": "Ethics and Information Technology",
+    "doi": "10.1007/s10676-010-9235-5",
+    "url": "https://link.springer.com/article/10.1007/s10676-010-9235-5",
+    "supports": [
+      "social-relational approach to moral consideration of robots",
+      "analysis of moral status beyond fixed intrinsic properties"
+    ],
+    "limits": [
+      "normative philosophical argument; not an empirical consciousness test"
+    ]
+  },
+  {
+    "id": "E12",
+    "type": "relational_robot_ethics",
+    "authors": "David J. Gunkel",
+    "year": 2022,
+    "title": "The Relational Turn: Thinking Robots Otherwise",
+    "venue": "Social Robotics and the Good Life",
+    "doi": "10.1515/9783839462652-003",
+    "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783839462652-003/html",
+    "supports": [
+      "critique of property-first approaches to moral status",
+      "relational turn in robot ethics"
+    ],
+    "limits": [
+      "application to biohybrid robots and organoid computing is an interpretive extension"
+    ]
+  },
+  {
+    "id": "E13",
+    "type": "biohybrid_robotics_ethics",
+    "authors": "Gough, Gough & Lázaro",
+    "year": 2024,
+    "title": "Ethics and responsibility in biohybrid robotics research",
+    "venue": "Frontiers in Robotics and AI",
+    "doi": "10.3389/frobt.2024.1401760",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11294997/",
+    "supports": [
+      "living materials used in biohybrid robots",
+      "ethical responsibility and governance questions for biohybrid robotics"
+    ],
+    "limits": [
+      "focuses particularly on top-down biorobotics; extrapolation to bottom-up cultured-tissue systems must be marked"
+    ]
   }
 ]
