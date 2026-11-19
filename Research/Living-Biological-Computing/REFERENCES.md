@@ -108,3 +108,158 @@
 **Encoding Tactile Stimuli for Braille Recognition with Organoids.** University of Bristol data.bris dataset. DOI: [10.5523/bris.19qmlywobvl3u22pzo67z3bc6l](https://doi.org/10.5523/bris.19qmlywobvl3u22pzo67z3bc6l). [数据集页面](https://data.bristol.ac.uk/data/dataset/19qmlywobvl3u22pzo67z3bc6l).
 
 数据用途：报告中描述性热图使用其 `three_organoid_24_channel_spike_counts.csv`。数据集页面标注 Non-Commercial Government Licence v2.0；详细复绘和许可边界见 [FIGURES.md](FIGURES.md#d01)。
+
+
+## 企业与产业平台
+
+<a id="m01"></a>
+
+<a id="m01"></a>
+
+### M01 · Cortical Labs
+
+**CL1 biological computer, Cortical Cloud and CL API.** [Company platform](https://corticallabs.com/); [developer documentation](https://docs.corticallabs.com/).
+
+用途：核对 CL1、云端平台和 API 的公开产品/开发者入口。公司页面描述的是产品定位和可用功能，不构成收入、用户规模、盈利能力或独立性能验证的证据。
+
+<a id="m02"></a>
+
+<a id="m02"></a>
+
+### M02 · FinalSpark
+
+**Neuroplatform.** [Official platform page](https://finalspark.com/neuroplatform/).
+
+用途：核对远程访问活体神经类器官、Python 接口、研究支持和订阅/定价联系入口。公开页面不披露本报告所需的收入、利润或估值数据。
+
+<a id="m03"></a>
+
+<a id="m03"></a>
+
+### M03 · MaxWell Biosystems
+
+**MaxOne HD-MEA and organoid holder.** [Product page](https://www.mxwbio.com/products/maxone); [company platform](https://www.mxwbio.com/).
+
+用途：核对高密度微电极阵列、类器官支架、神经活动记录/刺激等科研工具。公司面向神经科学和类器官电生理等应用，不应被误写为纯生物计算公司。
+
+<a id="m04"></a>
+
+<a id="m04"></a>
+
+### M04 · Axion Biosystems
+
+**Functional analysis of neural organoids with MEA.** [Organoid electrophysiology](https://www.axionbiosystems.com/applications/neural-activity/neural-organoids); [Maestro Edge](https://www.axionbiosystems.com/products/mea/maestro-edge).
+
+用途：核对其神经类器官电生理及相关 MEA 产品。产品覆盖神经、心脏和其他细胞模型，属于上游工具供应商。
+
+<a id="m05"></a>
+
+<a id="m05"></a>
+
+### M05 · MIMETAS
+
+**OrganoPlate platform.** [Technology page](https://mimetas.com/technology).
+
+用途：核对微流控 organ-on-chip 和组织模型平台。它是类器官/组织模型与药物研发的相邻基础设施，并非活体神经计算平台。
+
+## 神经伦理、哲学与意识理论
+
+<a id="e01"></a>
+
+<a id="e01"></a>
+
+### E01 · Hyun et al. (2024)
+
+**The ethical landscape of human brain organoids and a mindful innovation framework.** *Nature Reviews Bioengineering* 2 (2024): 785–796. DOI: [10.1038/s44222-024-00211-3](https://doi.org/10.1038/s44222-024-00211-3).
+
+核读范围：出版者摘要。涵盖样本来源与同意、动物研究、商业化、道德地位、监管、社会参与及负责任创新。
+
+<a id="e02"></a>
+
+<a id="e02"></a>
+
+### E02 · Ishida et al. / Asia Pacific Neuroethics Working Group (2026)
+
+**Ethics and Regulation of Human Brain Organoid Research: Recommendations from the Asia Pacific Neuroethics Working Group.** *Asian Bioethics Review* 18(3) (2026): 649–679. DOI: [10.1007/s41649-025-00398-6](https://doi.org/10.1007/s41649-025-00398-6). [PMC 全文](https://pmc.ncbi.nlm.nih.gov/articles/PMC13350604/).
+
+核读范围：全文摘要、引言、伦理问题、道德地位讨论、文化差异和政策建议。作者组包括科学家、生物伦理学家、哲学家与法律学者；文中强调以证据为本、比例适当的意识讨论、知情同意、隐私、知识产权、分配正义和适应性治理。该文亦披露共同作者 Brett Kagan 与 Cortical Labs 的雇佣/持股关系，阅读其行业判断时应保留利益冲突信息。
+
+<a id="e03"></a>
+
+<a id="e03"></a>
+
+### E03 · Kataoka, Lee & Sawai (2024)
+
+**Human Brain Organoid Research and Applications: Where and How to Meet Legal Challenges?** *Journal of Bioethical Inquiry* 21(4) (2024): 603–610. DOI: [10.1007/s11673-024-10349-9](https://doi.org/10.1007/s11673-024-10349-9).
+
+核读范围：PubMed 摘要。将法律伦理议题归纳为意识、法律地位、知情同意、所有权和移植，并区分紧迫议题与远期推测。
+
+<a id="e04"></a>
+
+<a id="e04"></a>
+
+### E04 · Bayne, Seth & Massimini (2022)
+
+**Theories of consciousness.** *Nature Reviews Neuroscience* 23 (2022): 439–452. DOI: [10.1038/s41583-022-00587-4](https://doi.org/10.1038/s41583-022-00587-4).
+
+用途：概览高阶理论、全球工作空间、再入/预测处理及整合信息理论等意识理论。它是经验理论综述，不是类器官道德地位的裁决标准。
+
+<a id="e05"></a>
+
+<a id="e05"></a>
+
+### E05 · Jeremy Bentham
+
+**Bentham.** *Stanford Encyclopedia of Philosophy*. [Entry](https://plato.stanford.edu/entries/bentham/).
+
+用途：功利主义传统的思想背景；用于解释以利益、痛苦与福祉为中心的道德考量方式。
+
+<a id="e06"></a>
+
+<a id="e06"></a>
+
+### E06 · 感受能力与动物道德地位
+
+**The Moral Status of Animals.** *Stanford Encyclopedia of Philosophy*. [Entry](https://plato.stanford.edu/entries/moral-animal/).
+
+用途：梳理以感受能力为基础的道德考量，以及 Bentham、Singer 等人的相关论证。此处借用的是问题框架，不表示该理论已对神经类器官给出确定结论。
+
+<a id="e07"></a>
+
+<a id="e07"></a>
+
+### E07 · Immanuel Kant
+
+**Kant’s Moral Philosophy.** *Stanford Encyclopedia of Philosophy*. [Entry](https://plato.stanford.edu/entries/kant-moral/).
+
+用途：康德式人格尊严、自主和“不可仅仅把人当作手段”的理论背景。正文将其用于讨论细胞捐赠者权利，不将人格地位直接赋予类器官。
+
+<a id="e08"></a>
+
+<a id="e08"></a>
+
+### E08 · Hans Jonas
+
+**The Imperative of Responsibility: In Search of an Ethics for the Technological Age.** University of Chicago Press. [Publisher page](https://press.uchicago.edu/ucp/books/book/chicago/I/bo5953283.html).
+
+用途：技术影响可能跨越当代决策者时间尺度时的责任伦理背景。
+
+<a id="e09"></a>
+
+<a id="e09"></a>
+
+### E09 · 关怀伦理
+
+**Care Ethics.** *Internet Encyclopedia of Philosophy*. [Entry](https://iep.utm.edu/care-ethics/).
+
+用途：关怀伦理的发展脉络，涉及 Carol Gilligan、Nel Noddings、Joan Tronto 等人的关系、情境与照护责任取向。
+
+<a id="e10"></a>
+
+<a id="e10"></a>
+
+### E10 · 能力取向
+
+**The Capability Approach.** *Stanford Encyclopedia of Philosophy*. [Entry](https://plato.stanford.edu/entries/capability-approach/).
+
+用途：能力、功能实现与福祉的规范框架，关联 Amartya Sen 与 Martha Nussbaum。正文仅把它作为比较与启发视角，不主张将人类或动物能力标准直接移植到类器官。
