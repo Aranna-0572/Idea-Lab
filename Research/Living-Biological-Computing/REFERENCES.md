@@ -78,6 +78,14 @@
 
 核读范围：出版者摘要和讨论。用作领域概念及研究议程背景，不当作实验效果证据。
 
+<a id="b12"></a>
+
+### B12 · Garmroudi et al. (2025)
+
+**Biohybrid living robotics: A comprehensive review of recent advances, technological innovation, and future prospects.** *npj Robotics* 3 (2025). DOI: [10.1038/s44182-025-00056-x](https://doi.org/10.1038/s44182-025-00056-x).
+
+核读范围：出版者开放全文与摘要。用于区分组织驱动型 biobots、步行/游动/抓取/泵送等功能，以及培养、控制和规模化限制；综述证据不替代单项原始实验。
+
 ## 阅读说明
 
 摘要、全文、研究介绍和框架文章承担不同作用。具体任务结果优先引用原始研究；机构新闻稿仅补充论文摘要没有报告的规模或背景；概念和伦理议程不与实验结果混在同一证据层级。
@@ -161,6 +169,30 @@
 **OrganoPlate platform.** [Technology page](https://mimetas.com/technology).
 
 用途：核对微流控 organ-on-chip 和组织模型平台。它是类器官/组织模型与药物研发的相邻基础设施，并非活体神经计算平台。
+
+<a id="e11"></a>
+
+### E11 · Mark Coeckelbergh (2010)
+
+**Robot rights? Towards a social-relational justification of moral consideration.** *Ethics and Information Technology* 12 (2010): 209–221. DOI: [10.1007/s10676-010-9235-5](https://doi.org/10.1007/s10676-010-9235-5).
+
+用途：社会关系取向的机器道德考虑论证。用于分析关系、道德地位归属与人机互动，不把该理论当作类器官意识证据。
+
+<a id="e12"></a>
+
+### E12 · David J. Gunkel (2022)
+
+**The Relational Turn: Thinking Robots Otherwise.** 收录于 *Social Robotics and the Good Life*。DOI: [10.1515/9783839462652-003](https://doi.org/10.1515/9783839462652-003).
+
+核读范围：开放章节。用于说明“关系转向”对以既定本体属性判定机器道德地位的批评；其应用到活体计算和 biobots 属于本报告的跨领域延伸。
+
+<a id="e13"></a>
+
+### E13 · Gough, Gough & Lázaro (2024)
+
+**Ethics and responsibility in biohybrid robotics research.** *Frontiers in Robotics and AI* 11 (2024): 1401760. DOI: [10.3389/frobt.2024.1401760](https://doi.org/10.3389/frobt.2024.1401760).
+
+核读范围：开放全文。用于概括生物混合机器人研究中的活体材料、潜在感受能力、责任分配和治理需求。作者重点讨论自上而下的生物机器人研究，并指出部分建议可延伸至培养组织路线；不把其治理提案写成已采纳的统一标准。
 
 ## 神经伦理、哲学与意识理论
 
