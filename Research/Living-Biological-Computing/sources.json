@@ -208,5 +208,213 @@
     "limits": [
       "dataset reuse is non-commercial only; plotted means do not reproduce classifier accuracy"
     ]
+  },
+  {
+    "id": "M01",
+    "type": "company_platform",
+    "authors": "Cortical Labs",
+    "year": 2026,
+    "title": "CL1 biological computer, Cortical Cloud and CL API",
+    "url": "https://corticallabs.com/",
+    "supporting_urls": [
+      "https://docs.corticallabs.com/"
+    ],
+    "supports": [
+      "public product and developer platform information"
+    ],
+    "limits": [
+      "product descriptions do not establish revenues, profitability, valuation or independent performance"
+    ]
+  },
+  {
+    "id": "M02",
+    "type": "company_platform",
+    "authors": "FinalSpark",
+    "year": 2026,
+    "title": "Neuroplatform",
+    "url": "https://finalspark.com/neuroplatform/",
+    "supports": [
+      "remote organoid access, Python interface and research service descriptions"
+    ],
+    "limits": [
+      "public product page does not establish profitability, revenue or valuation"
+    ]
+  },
+  {
+    "id": "M03",
+    "type": "company_instrumentation",
+    "authors": "MaxWell Biosystems",
+    "year": 2026,
+    "title": "MaxOne HD-MEA and organoid holder",
+    "url": "https://www.mxwbio.com/products/maxone",
+    "supports": [
+      "high-density electrophysiology instrumentation and organoid electrophysiology use"
+    ],
+    "limits": [
+      "broad research tool supplier, not a pure-play living-computing company"
+    ]
+  },
+  {
+    "id": "M04",
+    "type": "company_instrumentation",
+    "authors": "Axion Biosystems",
+    "year": 2026,
+    "title": "Functional analysis of neural organoids with MEA",
+    "url": "https://www.axionbiosystems.com/applications/neural-activity/neural-organoids",
+    "supporting_urls": [
+      "https://www.axionbiosystems.com/products/mea/maestro-edge"
+    ],
+    "supports": [
+      "MEA products and organoid electrophysiology applications"
+    ],
+    "limits": [
+      "broad cell assay/electrophysiology supplier, not a pure-play living-computing company"
+    ]
+  },
+  {
+    "id": "M05",
+    "type": "adjacent_platform",
+    "authors": "MIMETAS",
+    "year": 2026,
+    "title": "OrganoPlate platform technology",
+    "url": "https://mimetas.com/technology",
+    "supports": [
+      "microfluidic organ-on-chip and tissue model platform"
+    ],
+    "limits": [
+      "adjacent tissue-modeling infrastructure, not neural computing"
+    ]
+  },
+  {
+    "id": "E01",
+    "type": "ethics_review",
+    "authors": "Hyun et al.",
+    "year": 2024,
+    "title": "The ethical landscape of human brain organoids and a mindful innovation framework",
+    "venue": "Nature Reviews Bioengineering",
+    "doi": "10.1038/s44222-024-00211-3",
+    "url": "https://www.nature.com/articles/s44222-024-00211-3",
+    "supports": [
+      "consent, commercialization, moral status, governance and responsible innovation themes"
+    ],
+    "limits": [
+      "perspective framework, not a consciousness test"
+    ]
+  },
+  {
+    "id": "E02",
+    "type": "ethics_consensus",
+    "authors": "Ishida et al. / Asia Pacific Neuroethics Working Group",
+    "year": 2026,
+    "title": "Ethics and Regulation of Human Brain Organoid Research: Recommendations from the Asia Pacific Neuroethics Working Group",
+    "venue": "Asian Bioethics Review",
+    "doi": "10.1007/s41649-025-00398-6",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13350604/",
+    "supports": [
+      "proportionate evidence-based ethics, consent, privacy, moral status, IP, distributive justice, adaptive regulation and cross-cultural discussion"
+    ],
+    "limits": [
+      "consensus recommendations do not establish a scientific consciousness threshold; one coauthor disclosed Cortical Labs employment and shareholding"
+    ]
+  },
+  {
+    "id": "E03",
+    "type": "legal_ethics_review",
+    "authors": "Kataoka, Lee & Sawai",
+    "year": 2024,
+    "title": "Human Brain Organoid Research and Applications: Where and How to Meet Legal Challenges?",
+    "venue": "Journal of Bioethical Inquiry",
+    "doi": "10.1007/s11673-024-10349-9",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38969917/",
+    "supports": [
+      "legal themes of consciousness, status, consent, ownership and transplantation"
+    ],
+    "limits": [
+      "review of legal issues; not technical evidence"
+    ]
+  },
+  {
+    "id": "E04",
+    "type": "consciousness_theory_review",
+    "authors": "Bayne, Seth & Massimini",
+    "year": 2022,
+    "title": "Theories of consciousness",
+    "venue": "Nature Reviews Neuroscience",
+    "doi": "10.1038/s41583-022-00587-4",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35505255/",
+    "supports": [
+      "overview of higher-order, global-workspace, recurrent/predictive-processing and integrated-information theories"
+    ],
+    "limits": [
+      "theoretical overview does not adjudicate consciousness in organoids"
+    ]
+  },
+  {
+    "id": "E05",
+    "type": "philosophy_reference",
+    "authors": "Jeremy Bentham",
+    "year": 2026,
+    "title": "Bentham",
+    "venue": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/entries/bentham/",
+    "supports": [
+      "utilitarian tradition and its historical background"
+    ]
+  },
+  {
+    "id": "E06",
+    "type": "philosophy_reference",
+    "authors": "Stanford Encyclopedia of Philosophy",
+    "year": 2026,
+    "title": "The Moral Status of Animals",
+    "url": "https://plato.stanford.edu/entries/moral-animal/",
+    "supports": [
+      "sentience-based moral consideration and Singer-related utilitarian arguments"
+    ]
+  },
+  {
+    "id": "E07",
+    "type": "philosophy_reference",
+    "authors": "Stanford Encyclopedia of Philosophy",
+    "year": 2026,
+    "title": "Kant’s Moral Philosophy",
+    "url": "https://plato.stanford.edu/entries/kant-moral/",
+    "supports": [
+      "Kantian autonomy, dignity and treating persons as ends"
+    ]
+  },
+  {
+    "id": "E08",
+    "type": "philosophy_reference",
+    "authors": "Hans Jonas",
+    "year": 1984,
+    "title": "The Imperative of Responsibility: In Search of an Ethics for the Technological Age",
+    "venue": "University of Chicago Press",
+    "url": "https://press.uchicago.edu/ucp/books/book/chicago/I/bo5953283.html",
+    "supports": [
+      "responsibility in the face of powerful technologies and long-term consequences"
+    ]
+  },
+  {
+    "id": "E09",
+    "type": "philosophy_reference",
+    "authors": "Internet Encyclopedia of Philosophy",
+    "year": 2026,
+    "title": "Care Ethics",
+    "url": "https://iep.utm.edu/care-ethics/",
+    "supports": [
+      "care ethics traditions associated with Gilligan, Noddings and Tronto"
+    ]
+  },
+  {
+    "id": "E10",
+    "type": "philosophy_reference",
+    "authors": "Stanford Encyclopedia of Philosophy",
+    "year": 2026,
+    "title": "The Capability Approach",
+    "url": "https://plato.stanford.edu/entries/capability-approach/",
+    "supports": [
+      "capabilities and well-being frameworks associated with Sen and Nussbaum"
+    ]
   }
 ]
